@@ -1,5 +1,5 @@
 # apnacollege
 This is my first Git Repository.
 <br> 
-Author - Ganeswar Sahoo
+Author - Ganeswar Sahoo (Ganeswar)
 
